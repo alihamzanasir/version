@@ -1,1 +1,1 @@
-# version:..verion0333
+This is the version of solodition app
